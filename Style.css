@@ -1,0 +1,55 @@
+body {
+    /*Background*/
+    background-color: rgb(211, 248, 255);
+    /*Background*/
+    background-size: cover;
+margin-bottom: 100px;
+}
+
+.DetailBox{
+    /* Card Color */
+    background-color: white;
+    /* Card Color */
+    width: 500px;
+    height: 700px;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-left: 450px;
+
+}
+
+.YourImage {
+   width: 230px; 
+   height: 230px;
+   margin-left: 130px;
+   border-radius: 50%;
+   margin-top: 50px;
+
+   
+}
+.BoxTopper {
+    /*Box Topper Color*/
+    background-color: rgb(57, 197, 202);
+    /*Box Topper Color*/
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 20%;
+    width: 100%;
+
+}
+
+.MyName {
+/* margin-top: 150px;
+margin-left: 130px; */
+font-family: 'Comfortaa', cursive;
+padding-top: 120px;
+text-align: center;
+}
+
+.Text{
+   margin-left: 15px;
+    
+    font-family: 'Hind', sans-serif;
+    color: rgb(49, 44, 44);
+}
+
